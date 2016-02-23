@@ -1,4 +1,4 @@
-# Cameron Wilson (V00822184)
+# Cameron Wilson 
 # November 7th, 2015
 import libxml2
 import sys
